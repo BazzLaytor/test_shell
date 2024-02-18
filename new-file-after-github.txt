@@ -1,6 +1,0 @@
-Hello, World!
-
-My name is Aleksei
-
-second modified
-#2
